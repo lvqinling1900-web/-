@@ -1,0 +1,5 @@
+{
+  "name": "转台角位置精度测试系统 - ISO 230-2",
+  "description": "基于 24 面棱体与准直仪的转台定位精度检定软件，符合 ISO 230-2 标准。",
+  "requestFramePermissions": []
+}
